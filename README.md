@@ -9,10 +9,10 @@ Shuru karne se pehle yeh cheezein ready honi chahiye:
 * Firebase account — [console.firebase.google.com](https://console.firebase.google.com/)
 * Android Studio ya Xcode (platform ke hisaab se)
 * Flutter SDK ya React Native CLI (agar cross-platform app hai)
-* Internet connection 125
+* Internet connection
 
 {% hint style="info" %}
-FCM bilkul **free** hai — koi limit nahi hai notifications bhejne.
+FCM bilkul **free** hai — koi limit nahi hai notifications bhejne ki.
 {% endhint %}
 
 ## 🔥 Firebase Project Setup
